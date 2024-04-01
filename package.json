@@ -1,0 +1,31 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cseteaching-unsw-edu-au/invoice-seng2021-24t1-khats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cseteaching-unsw-edu-au/invoice-seng2021-24t1-khats/issues"
+  },
+  "homepage": "https://github.com/cseteaching-unsw-edu-au/invoice-seng2021-24t1-khats#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1",
+    "request": "^2.88.2",
+    "saxon-js": "^2.6.0",
+    "sync-request": "^6.1.0",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
